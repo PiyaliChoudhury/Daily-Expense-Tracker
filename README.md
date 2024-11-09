@@ -63,3 +63,5 @@ Enables users to monitor their financial habits, track previous transactions, an
 ## Contributors
 - [Piyali Choudhury](https://github.com/PiyaliChoudhury)
 - [Malladi Nanda Gopal](https://github.com/Nandagopal08)
+- [Saanvi Patnaik](https://github.com/Saanvipatnaik09)
+- [Ritisha Katiyar](https://github.com/ritisha-here)
