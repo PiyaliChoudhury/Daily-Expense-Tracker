@@ -32,6 +32,22 @@ Enables users to monitor their financial habits, track previous transactions, an
 ###Login
 ![LOGIN PAGE](https://github.com/user-attachments/assets/b9f1f001-60a5-41c1-b8b7-ed4141aff2c6)
 
+###Home Page
+![HOME PAGE](https://github.com/user-attachments/assets/192e1d53-85b2-4f7f-9a91-a952f5cafc9e)
+
+###Accounts
+![ACCOUNTS](https://github.com/user-attachments/assets/4dac6a48-5a9b-4b60-acb1-dcc77cbf508f)
+
+###Incomes
+![INCOMES](https://github.com/user-attachments/assets/58748556-f37b-4fde-99ac-75e32f8befd1)
+
+###Expenses
+![EXPENSES](https://github.com/user-attachments/assets/d3a6f968-6579-4fb6-b0cc-c5408114d5b9)
+
+###Budget
+![BUDGET](https://github.com/user-attachments/assets/63ffd9a4-71a9-4f21-ba48-8e4055a7e4cd)
+
+
 ## Installation
 1. Open the project in Apache NetBeans.
 2. Set up the MySQL database according to the provided schema.
@@ -46,3 +62,4 @@ Enables users to monitor their financial habits, track previous transactions, an
 
 ## Contributors
 - [Piyali Choudhury](https://github.com/PiyaliChoudhury)
+- [Malladi Nanda Gopal](https://github.com/Nandagopal08)
