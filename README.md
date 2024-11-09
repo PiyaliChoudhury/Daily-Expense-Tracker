@@ -28,28 +28,7 @@ Enables users to monitor their financial habits, track previous transactions, an
 - **JCalendar:** Provides Date-related components for user-friendly date selection.
 - **XChart:** Generates interactive charts for visualizing financial data.
 - **AbsoluteLayout:** Facilitates precise positioning of UI components.
-
-
-### Login
-![Login Page](images/login.png)
-
-### Signup
-![Signup Page](images/signup.png)
-
-### Home
-![Home Page](images/home.png)
-
-### Accounts
-![Accounts Page](images/accounts.png)
-
-### Income
-![Income Page](images/incomes.png)
-
-### Expense
-![Expense Page](images/expenses.png)
-
-### Budget
-![Budget Page](images/budget.png)
+  
 
 ## Installation
 1. Open the project in Apache NetBeans.
